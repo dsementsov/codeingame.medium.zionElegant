@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{B8A7DEAB-7BD8-4A99-BD38-68DB3585A717}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="codeingame.medium.zionElegant/Program.cs">
+    <Files>
+      <File FileName="codeingame.medium.zionElegant/Program.cs" Line="16" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../codeingame.medium.teads/codeingame.medium.teads/Program.cs" line="109" offsetX="337" offsetY="1620" expression="connectedNodes.Count" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.codeingame.medium.zionElegant PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
